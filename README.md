@@ -6,4 +6,6 @@
 
 目前放置的信息只包含：装备武器信息、魔法物品信息、怪物信息、工具列表等。
 
+项目依赖文档工具：docsify
+
 **文档地址：[https://eiriksgata.github.io/rulateday-dnd5e-wiki/](https://eiriksgata.github.io/rulateday-dnd5e-wiki/#/)**
