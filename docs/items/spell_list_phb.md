@@ -14759,4 +14759,3 @@ d10 行为 1 该生物使用其所有移动力向一个随机方向移动。你�
 <details><summary>心灵尖啸</summary>NULL</details>
 
 
-Process finished with exit code 0
