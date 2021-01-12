@@ -1,5 +1,6 @@
 <!-- docs/_sidebar.md -->
 * [简介](README)
+* [编辑文档](items/edit_document)
 * [盔甲武器-PHB](items/armor_weapon_phb)
 * [魔法物品-DMG](items/magic_items_dmg)
 * [怪物信息](items/monster_manual)
