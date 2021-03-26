@@ -8,4 +8,6 @@
 
 项目依赖文档工具：docsify
 
-**文档地址：[https://eiriksgata.github.io/rulateday-dnd5e-wiki/](https://eiriksgata.github.io/rulateday-dnd5e-wiki/#/)**
+**文档地址：
+1. **推荐** gitee 镜像地址: [https://keith404.gitee.io/rulateday-dnd5e-wiki/#/](https://keith404.gitee.io/rulateday-dnd5e-wiki/#/) 
+2. [https://eiriksgata.github.io/rulateday-dnd5e-wiki/](https://eiriksgata.github.io/rulateday-dnd5e-wiki/#/)**
